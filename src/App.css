@@ -1,0 +1,8 @@
+/* src/App.css */
+.overBudget {
+  text-decoration: line-through;
+}
+
+.not-overBudget {
+  color: red;
+}
